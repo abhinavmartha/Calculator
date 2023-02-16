@@ -1,0 +1,28 @@
+.calculator {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  input[type="text"], button {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: lightgray;
+    color: black;
+    font-weight: bold;
+    width: 50px;
+  }
+  
+  button:hover {
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+  }
+  
